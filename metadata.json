@@ -1,0 +1,6 @@
+{
+  "name": "Barcelona Under Fire - Spanish Arcade Shooter",
+  "description": "An action-packed Spanish learning arcade shooter set in Barcelona. Shoot, survive and master Spanish grammar, vocab and street slang!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
